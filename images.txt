@@ -1,2 +1,4 @@
 nginx
 python
+ryaning/frps
+jeessy/ddns-go
