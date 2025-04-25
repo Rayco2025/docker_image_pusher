@@ -2,3 +2,4 @@ nginx
 python
 ryaning/frps
 jeessy/ddns-go
+mzz2017/v2raya
